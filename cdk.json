@@ -1,3 +1,6 @@
 {
-  "app": "npx ts-node bin/cd-cdk-test.ts"
+  "app": "npx ts-node bin/cd-cdk-test.ts",
+  "context": {
+    "target": "dev"
+  }
 }
